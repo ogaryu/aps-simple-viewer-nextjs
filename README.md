@@ -43,7 +43,9 @@ On the Autodesk Forge Tools, after uploading a model to OSS Bucket and translate
 Follow these instructions to get the app running locally:
 
 1. run `git clone` this repository
-2. Set ClientId and ClientSecret on .enve.local in a root folder.
+2. Create .env.local file in a root folder and set ClientId and ClientSecret.
+    - CLIENT_ID=XXXXXXXXXX    
+    - CLIENT_SECRET=XXXXXXXXXX
 3. Set Object URN to documentId in a `components/viewer.js`
 4. run `npm install`
 5. run `npm run dev`
