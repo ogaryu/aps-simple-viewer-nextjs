@@ -36,7 +36,7 @@ export default function Viewer() {
         
               console.log('Initialization complete, loading a model next...');
     
-              var documentId = 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dGVzdF9idWNrZXRfMjAxOTA3MTcvcmFjX2FkdmFuY2VkX3NhbXBsZV9wcm9qZWN0LnJ2dA';
+              var documentId = 'urn:[your object urn]';
     
               console.log(documentId);
     
