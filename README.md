@@ -18,7 +18,7 @@ I created a sample based on [Next.js](https://nextjs.org/) which is a framework 
 This sample is using oAuth2 V2 API to get 2-legged token, and APS Viewer V7.
 
 To run the sample, you need to get Object URN of a model which is [uploaded in OSS Bucket](https://aps.autodesk.com/en/docs/data/v2/developers_guide/overview/) and [translated it](https://aps.autodesk.com/en/docs/model-derivative/v2/developers_guide/overview/) in advance.
-Please refer to the [Autodesk Forge Tools](https://aps.autodesk.com/blog/forge-visual-studio-code) for easiest way to get the urn.
+Please refer to the [Autodesk Forge Tools](https://marketplace.visualstudio.com/items?itemName=petrbroz.vscode-forge-tools) for easiest way to get the urn.
 On the Autodesk Forge Tools, after uploading a model to OSS Bucket and translate it, then right click on the model and 'Copy Object URN to Clipboard'.   
 
 ### Thumbnail
