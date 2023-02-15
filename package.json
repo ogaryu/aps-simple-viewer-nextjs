@@ -2,6 +2,7 @@
   "name": "aps-viewer-app",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://developer.api.autodesk.com", 
   "scripts": {
     "dev": "next dev",
     "build": "next build",
